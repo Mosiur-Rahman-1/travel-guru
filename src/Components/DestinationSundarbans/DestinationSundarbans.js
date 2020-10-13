@@ -59,7 +59,7 @@ const Destination = () => {
                                 />
                             </Grid>
                             </Grid>
-                            <Link href = "/hotels"><Button variant="contained" justifyContent="center">Start Booking</Button></Link>
+                            <Link href = "/hotels"><Button variant="contained" justifyContent="center" className = "btn-color">Start Booking</Button></Link>
                         </form>
                         </div>
                     </div>
