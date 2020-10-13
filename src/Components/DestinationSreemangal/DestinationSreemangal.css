@@ -1,0 +1,58 @@
+.bg {
+
+    background-color: black;
+    height: calc(100vh - 64px);
+    width: 100%;
+    overflow: hidden;
+}
+
+.bg-image {
+
+    background-image: url("../../Image/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.row-margin {
+   height: 100vh;
+}
+
+.hero-container-text {
+
+    padding-left: 150px;
+}
+
+.hero-heading {
+    font-size: 97px;
+    color: #fff;
+    font-weight: 800;
+    font-family: "Bebas Neue";
+}
+
+.form-container {
+    background-color: #fff;
+    height: 427px;
+    width: 470px;
+    border-radius: 5px;
+    margin-left: 150px;
+    padding: 20px;
+}
+
+.full-width-input-field {
+
+    width: 100% !important;
+    padding-right: 20px;
+}
+
+.half-width-calender-field-first {
+    width: auto;
+}
+.half-width-calender-field-second {
+    width: auto;
+}
+.btn-color {
+
+    color: #fff !important;
+    background-color: #fa1 !important;
+}

@@ -1,0 +1,18 @@
+.logo {
+
+    height: 50px;
+}
+.nav-spacing {
+
+    /* margin-left: 350px; */
+    margin-left: 200px;
+}
+.nav-item-spacing {
+
+    padding-left: 25px;
+
+}
+
+.color {
+    color: #fff !important;
+}

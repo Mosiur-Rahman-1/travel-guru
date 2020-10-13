@@ -1,0 +1,92 @@
+.bg {
+
+    background-color: black;
+    height: calc(100vh - 64px);
+    width: 100%;
+    overflow: hidden;
+}
+
+.bg-image {
+
+    background-image: url("../../Image/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-one {
+
+    background-image: url("../../Image/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    border: 4px solid #fa1;
+    width: 270px;
+    height: 416px;
+    border-radius:20px;
+}
+
+.card-two {
+
+    background-image: url("../../Image/Sreemongol.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    width: 270px;
+    height: 416px;
+    border-radius:20px;
+}
+
+.card-two:hover {
+    border: 4px solid #fa1;
+}
+
+.card-three {
+
+    background-image: url("../../Image/sundorbon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    width: 270px;
+    height: 416px;
+    border-radius:20px;
+    
+}
+.card-three:hover {
+    border: 4px solid #fa1;
+}
+.card-heading {
+
+    color: #fff;
+    position: absolute;
+    bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Bebas Neue";
+    font-size: 36px;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.row-margin {
+   height: 100vh;
+}
+
+.hero-container-text {
+
+    padding-left: 150px;
+}
+
+.hero-heading {
+    font-size: 97px;
+    color: #fff;
+    font-weight: 800;
+    font-family: "Bebas Neue";
+}
+
+.btn-color {
+
+    color: #fff;
+    padding: 8px 30px;
+    background-color: #fa1;
+    border: none;
+}
